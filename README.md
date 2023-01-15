@@ -1,0 +1,3 @@
+- tous les exercices d'algo demandés par Enzo
+- triés en 7 scripts
+- bonne lecture
