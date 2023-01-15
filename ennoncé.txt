@@ -1,0 +1,13 @@
+ex1 : Ecrire un script qui prend en entrée un nombre entier et affiche tous les nombres de 1 à ce nombre.
+
+ex2 : Ecrire un script qui prend en entrée une chaîne de caractères et renvoie le nombre de voyelles dans la chaîne.
+
+ex3 : Ecrire un script qui prend en entrée un tableau d'entiers et renvoie le plus grand élément du tableau.
+
+ex4 : Ecrire un script qui prend en entrée deux chaînes de caractères et renvoie true si elles sont des anagrammes, false sinon.
+
+ex5 : Ecrire un script qui prend en entrée un nombre entier et renvoie true si c'est un nombre premier, false sinon.
+
+ex6 : Ecrire un script qui prend en entrée un nombre entier et renvoie le nombre de chiffres de ce nombre.
+
+ex7 : Ecrire un script qui prend en entrée un nombre entier et renvoie la somme des chiffres de ce nombre.
